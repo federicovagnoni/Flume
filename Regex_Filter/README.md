@@ -1,4 +1,4 @@
-Requirment:
+Requirement:
 From the source, we are getting data in the form of sr.no, name,city,role.
 Now, the source could be real time streaming or it could be any other source. 
 In the example, I have used netcat service as a source that listens on a given port and turns each line of text into an event. 
