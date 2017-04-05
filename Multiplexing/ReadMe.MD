@@ -1,4 +1,4 @@
-### Requirment: 
+### Requirement: 
 
 From the source, we are getting data in the form of sr.no, name,city,role. 
 Now, the source could be real time streaming or it could be any other source.
