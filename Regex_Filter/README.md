@@ -61,7 +61,8 @@ a1.sources.r1.type = netcat
 a1.sources.r1.bind = localhost
 a1.sources.r1.port = 44444
 
-So, once flume agent starts, run following command on other terminal to start netcat 
+So, once flume agent starts, run following command on other terminal to start netcat - 
+
 telnet localhost 44444
 
 Its almost done now,just provide the input text 
