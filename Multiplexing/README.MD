@@ -74,8 +74,13 @@ telnet localhost 44444
 Its almost done now,just provide the input text
 
 1, E1,Viren,mumbai
+
 2, E2,John,chennai
+
 1, E3,Ofer,kolkata
+
 2, E4,Sanjeev,delhi
+
 1, E5,Ramesh,pune
+
 2, E6,Amruta,banglore
